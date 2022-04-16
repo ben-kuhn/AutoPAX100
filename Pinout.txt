@@ -1,0 +1,8 @@
+1 - Brown - PTT
+2 - Red - Band
+3 - Green - ALC
+4 - Yellow - AF Out
+5 - Orange - AF In
+6 - Black - +8V
+7 - Violet - Gnd
+8 - Blue - Data?
