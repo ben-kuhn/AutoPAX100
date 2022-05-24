@@ -1,3 +1,5 @@
+These colors correspond to the cable I'm using.  It probably doesn't correspond to yours so please double check.
+
 1 - Brown - PTT
 2 - Red - Band
 3 - Green - ALC
