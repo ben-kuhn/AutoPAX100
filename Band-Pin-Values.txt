@@ -1,3 +1,5 @@
+This file contains the results of my experimetation with the ReadBands.ino sketch.  The values below are used in the actual sketch to identify the band.
+
 Off:  0
 
 
