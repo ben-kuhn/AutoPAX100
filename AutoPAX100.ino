@@ -8,6 +8,12 @@ is selected.
 
 A 16 column 2 row display shows the status of the amp
 
+There are a few ways this could be wired up.  I chose to use this circuit to "replace" only the push-
+buttons on the LPFX7 and maintain as much of the original LPFX7 functionality as possible.  This
+includes the relay latching mechanism.  It would be pretty trivial to modify this sketch to drive
+the relay coils directly in the event of a broken LPFX-7 or even another LPF that doesn't have the
+latching circuitry.
+
  The circuit:
   - Power is provided to the 5v pin via an LM7805 regulator with filtering capacitors
   - G90 Aux port Pin 2 (Red) connected to analog pin 0.
